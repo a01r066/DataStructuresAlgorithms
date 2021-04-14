@@ -1,4 +1,4 @@
-package oop;
+package adt;
 
 public class Person implements Human {
 	String name;
